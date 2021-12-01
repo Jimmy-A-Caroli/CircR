@@ -14,7 +14,7 @@ from itertools import islice
 from collections import Counter
 
 #@#@#@# DICTIONARY SECTION #@#@#@#
-
+# aggiungo una nota a caso
 match = {'CG': '|',
 		 'GC': '|',
 		 'AU': '|',
